@@ -124,15 +124,6 @@ Orden COMPRA ejecutada | 584 acciones de NVDA (~$99,992.48)
 
 ---
 
-## Próximos pasos
-
-- [ ] Agregar indicadores técnicos: RSI, MACD, Bollinger Bands
-- [ ] Reemplazar Random Forest con LSTM
-- [ ] Implementar backtester histórico
-- [ ] Agregar stop loss dinámico
-
----
-
 ## Disclaimer
 
 Este proyecto es únicamente para fines educativos. No constituye asesoramiento financiero. Usa paper trading (dinero simulado) para pruebas.
